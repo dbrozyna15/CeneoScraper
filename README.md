@@ -3,6 +3,7 @@
 # Stage 1 - extraction of all components for single opinion 
 1. extraciotn of single web page content
 2. analysis of single opinion stucture
+
 Component | CSS selector | Variable name | Data type
 ---------------------|-----------------------------------------------------------------------------------|----------------|----------
 Opinion              | div.js_product-review                                                             | opinion        | dict
