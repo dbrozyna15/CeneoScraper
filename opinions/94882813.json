@@ -22,7 +22,7 @@
         "post_date": "2020-08-24 14:26:02",
         "purchase_date": "2020-08-19 08:37:27",
         "usefulness": 58,
-        "uselessness": 9
+        "uselessness": 10
     },
     {
         "opinion_id": "13033391",
@@ -90,7 +90,7 @@
         "verified": true,
         "post_date": "2020-12-29 23:31:29",
         "purchase_date": "2020-12-15 17:57:14",
-        "usefulness": 2,
+        "usefulness": 3,
         "uselessness": 1
     },
     {
@@ -426,6 +426,32 @@
         "uselessness": 0
     },
     {
+        "opinion_id": "14339983",
+        "author": "h...t",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Продавец отправил быстро, но лучше всех сработал курьер доставки :) Спасибо всё понравилось!",
+        "pros": [
+            "czas pracy na baterii",
+            "dobry ekran",
+            "funkcjonalność",
+            "jakość rozmów",
+            "łatwość obsługi",
+            "płynnie działa",
+            "przeciętny aparat",
+            "szybkość działania",
+            "wielkość",
+            "wygląd",
+            "wykonanie"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-22 17:34:38",
+        "purchase_date": "2021-04-19 12:29:22",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
         "opinion_id": "13943065",
         "author": "o...k",
         "recommendation": true,
@@ -685,6 +711,20 @@
         "verified": true,
         "post_date": "2021-02-03 12:26:53",
         "purchase_date": "2021-01-29 15:32:47",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
+        "opinion_id": "14337357",
+        "author": "s...l",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Stos. ceny do możliwości b.dobry. Ocena baterii później.",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-22 10:47:18",
+        "purchase_date": "2021-04-15 11:58:15",
         "usefulness": 0,
         "uselessness": 0
     },
@@ -1573,6 +1613,20 @@
         "uselessness": 0
     },
     {
+        "opinion_id": "14334323",
+        "author": "j...a",
+        "recommendation": true,
+        "stars": 4.5,
+        "content": "Polecam",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-21 22:08:05",
+        "purchase_date": "2021-04-07 19:30:39",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
         "opinion_id": "14321819",
         "author": "B",
         "recommendation": true,
@@ -2118,6 +2172,25 @@
         "uselessness": 1
     },
     {
+        "opinion_id": "14349839",
+        "author": "k...7",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Telefon kupiony dla babci, prosta konfiguracja, duży ekran, intuicyjny interfejs jak wszystkie telefony Xiaomi, parametry wystarczające dla osoby która korzysta z niewielu aplikacji, a telefon jest jej potrzebny głównie do dzwonienia. Do tego niska cena, więc nie mam za co odejmować nawet połowy punktu.",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 21:47:36",
+        "purchase_date": "2021-04-09 11:57:39",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
         "opinion_id": "14266529",
         "author": "m...5",
         "recommendation": null,
@@ -2176,6 +2249,22 @@
         "purchase_date": "2020-10-05 15:27:17",
         "usefulness": 0,
         "uselessness": 1
+    },
+    {
+        "opinion_id": "14133358",
+        "author": "j...e",
+        "recommendation": false,
+        "stars": 2.5,
+        "content": "Cudowny lepszy od samsubow za 50000 tys",
+        "pros": [
+            "łatwość obsługi"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-03-17 19:58:49",
+        "purchase_date": "2021-03-03 11:41:56",
+        "usefulness": 0,
+        "uselessness": 0
     },
     {
         "opinion_id": "13125736",
@@ -2245,22 +2334,6 @@
         "verified": true,
         "post_date": "2020-09-24 21:54:39",
         "purchase_date": "2020-09-17 13:56:12",
-        "usefulness": 0,
-        "uselessness": 0
-    },
-    {
-        "opinion_id": "14133358",
-        "author": "j...e",
-        "recommendation": false,
-        "stars": 2.5,
-        "content": "Cudowny lepszy od samsubow za 50000 tys",
-        "pros": [
-            "łatwość obsługi"
-        ],
-        "cons": [],
-        "verified": true,
-        "post_date": "2021-03-17 19:58:49",
-        "purchase_date": "2021-03-03 11:41:56",
         "usefulness": 0,
         "uselessness": 0
     },
@@ -4657,6 +4730,25 @@
         "uselessness": 0
     },
     {
+        "opinion_id": "14349289",
+        "author": "m...c",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Polecam",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 20:47:40",
+        "purchase_date": "2021-04-12 17:09:05",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
         "opinion_id": "14197730",
         "author": "b...r",
         "recommendation": true,
@@ -4732,6 +4824,25 @@
         "verified": true,
         "post_date": "2020-10-14 21:23:05",
         "purchase_date": "2020-10-04 18:53:45",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
+        "opinion_id": "14347796",
+        "author": "j...6",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Super",
+        "pros": [
+            "czas pracy na baterii",
+            "funkcjonalność",
+            "łatwość obsługi",
+            "wygląd"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 16:59:04",
+        "purchase_date": "2021-04-12 20:07:22",
         "usefulness": 0,
         "uselessness": 0
     },
@@ -5077,6 +5188,32 @@
         "uselessness": 0
     },
     {
+        "opinion_id": "14322937",
+        "author": "t...s",
+        "recommendation": true,
+        "stars": 4.0,
+        "content": "Ok.",
+        "pros": [
+            "czas pracy na baterii",
+            "dobry ekran",
+            "funkcjonalność",
+            "jakość rozmów",
+            "łatwość obsługi",
+            "płynnie działa",
+            "przeciętny aparat",
+            "szybkość działania",
+            "wielkość",
+            "wygląd",
+            "wykonanie"
+        ],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-20 14:01:14",
+        "purchase_date": "2021-04-11 20:31:27",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
         "opinion_id": "14108074",
         "author": "k...a",
         "recommendation": true,
@@ -5134,6 +5271,20 @@
         "verified": true,
         "post_date": "2020-11-30 22:33:53",
         "purchase_date": "2020-11-07 11:02:04",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
+        "opinion_id": "14347792",
+        "author": "j...6",
+        "recommendation": true,
+        "stars": 5.0,
+        "content": "Ok",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2021-04-23 16:58:20",
+        "purchase_date": "2021-04-12 20:07:22",
         "usefulness": 0,
         "uselessness": 0
     },
@@ -5639,6 +5790,20 @@
         "uselessness": 1
     },
     {
+        "opinion_id": "13528348",
+        "author": "g...c",
+        "recommendation": false,
+        "stars": 1.0,
+        "content": "Nie wiem,nie otrzymałem",
+        "pros": [],
+        "cons": [],
+        "verified": true,
+        "post_date": "2020-12-08 17:22:20",
+        "purchase_date": "2020-12-01 11:50:21",
+        "usefulness": 0,
+        "uselessness": 0
+    },
+    {
         "opinion_id": "12825027",
         "author": "Użytkownik Ceneo",
         "recommendation": true,
@@ -5654,20 +5819,6 @@
         "verified": false,
         "post_date": "2020-07-19 18:07:46",
         "purchase_date": null,
-        "usefulness": 0,
-        "uselessness": 0
-    },
-    {
-        "opinion_id": "13528348",
-        "author": "g...c",
-        "recommendation": false,
-        "stars": 1.0,
-        "content": "Nie wiem,nie otrzymałem",
-        "pros": [],
-        "cons": [],
-        "verified": true,
-        "post_date": "2020-12-08 17:22:20",
-        "purchase_date": "2020-12-01 11:50:21",
         "usefulness": 0,
         "uselessness": 0
     },

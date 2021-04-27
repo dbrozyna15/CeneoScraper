@@ -14,6 +14,7 @@ def get_component(opinion, selector, attribute=None, return_list=False):
         return None
 
 selectors = {
+                "opinion_id": ["None"],
                 "author": ["span.user-post__author-name"],
                 "recommendation": ["span.user-post__author-recomendation > em"],
                 "stars": ["span.user-post__score-count"],
